@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello World \n"
+echo "Hello World"
 echo "This is version 2"
